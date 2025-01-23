@@ -1,0 +1,2001 @@
+safe_hours,risk_level,storage_tips
+92.3,low,Standard storage adequate
+53.2,medium,Reduce storage temperature; Control humidity
+110.4,low,Standard storage adequate
+31.3,high,Reduce storage temperature; Control humidity
+56.1,medium,Reduce storage temperature
+66.4,medium,Reduce storage temperature
+37.0,high,Reduce storage temperature; Control humidity
+66.6,medium,Reduce storage temperature
+84.2,low,Reduce storage temperature
+61.0,medium,Consider airtight container
+47.6,high,Reduce storage temperature; Control humidity
+82.9,low,Reduce storage temperature
+44.4,high,Control humidity; Consider airtight container
+78.8,low,Standard storage adequate
+85.3,low,Standard storage adequate
+61.9,medium,Reduce storage temperature
+75.1,low,Reduce storage temperature
+64.1,medium,Standard storage adequate
+51.1,medium,Reduce storage temperature
+45.2,high,Reduce storage temperature; Control humidity
+43.2,high,Reduce storage temperature
+60.7,medium,Reduce storage temperature; Consider airtight container
+78.5,low,Control humidity
+36.1,high,Reduce storage temperature; Control humidity
+34.9,high,Reduce storage temperature; Control humidity
+40.6,high,Reduce storage temperature; Control humidity
+57.2,medium,Reduce storage temperature; Consider airtight container
+38.0,high,Reduce storage temperature; Control humidity
+64.4,medium,Control humidity
+31.7,high,Reduce storage temperature; Control humidity
+49.3,medium,Reduce storage temperature; Consider airtight container
+68.6,medium,Standard storage adequate
+70.5,medium,Control humidity
+75.6,low,Reduce storage temperature
+75.3,low,Standard storage adequate
+48.4,medium,Reduce storage temperature; Consider airtight container
+48.6,medium,Reduce storage temperature
+74.1,low,Standard storage adequate
+33.8,high,Reduce storage temperature; Control humidity
+120.9,low,Standard storage adequate
+62.4,medium,Reduce storage temperature
+80.9,low,Standard storage adequate
+47.4,high,Control humidity
+49.3,medium,Reduce storage temperature
+65.5,medium,Control humidity
+35.7,high,Reduce storage temperature; Control humidity
+46.9,high,Control humidity
+38.2,high,Reduce storage temperature; Control humidity
+77.7,low,Reduce storage temperature
+58.8,medium,Control humidity; Consider airtight container
+62.2,medium,Reduce storage temperature
+56.8,medium,Reduce storage temperature; Control humidity
+90.5,low,Standard storage adequate
+44.2,high,Reduce storage temperature; Control humidity
+45.4,high,Reduce storage temperature
+48.6,medium,Reduce storage temperature; Control humidity
+66.7,medium,Control humidity
+42.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+46.0,high,Reduce storage temperature; Control humidity
+62.6,medium,Control humidity
+58.5,medium,Standard storage adequate
+59.6,medium,Reduce storage temperature
+74.6,low,Reduce storage temperature
+43.5,high,Reduce storage temperature
+53.8,medium,Reduce storage temperature
+86.2,low,Reduce storage temperature
+101.3,low,Standard storage adequate
+59.0,medium,Control humidity
+66.3,medium,Reduce storage temperature; Control humidity
+33.3,high,Reduce storage temperature; Control humidity
+51.4,medium,Reduce storage temperature; Control humidity
+33.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+67.6,medium,Control humidity
+75.3,low,Control humidity
+42.8,high,Control humidity; Consider airtight container
+64.9,medium,Standard storage adequate
+68.9,medium,Reduce storage temperature
+81.4,low,Standard storage adequate
+63.8,medium,Control humidity; Consider airtight container
+55.4,medium,Reduce storage temperature
+40.0,high,Reduce storage temperature
+35.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+60.8,medium,Control humidity
+52.4,medium,Control humidity
+54.2,medium,Control humidity
+61.7,medium,Reduce storage temperature
+94.2,low,Standard storage adequate
+66.6,medium,Control humidity
+77.2,low,Standard storage adequate
+62.4,medium,Standard storage adequate
+49.9,medium,Reduce storage temperature; Control humidity
+51.1,medium,Control humidity; Consider airtight container
+59.4,medium,Standard storage adequate
+37.9,high,Reduce storage temperature; Control humidity
+66.7,medium,Standard storage adequate
+56.6,medium,Control humidity
+35.4,high,Reduce storage temperature; Control humidity
+53.1,medium,Reduce storage temperature
+64.7,medium,Control humidity
+51.8,medium,Control humidity
+66.1,medium,Reduce storage temperature
+52.4,medium,Reduce storage temperature
+36.5,high,Reduce storage temperature
+55.9,medium,Reduce storage temperature; Control humidity
+50.5,medium,Control humidity
+66.9,medium,Reduce storage temperature
+52.3,medium,Reduce storage temperature
+48.0,medium,Reduce storage temperature
+60.9,medium,Reduce storage temperature
+42.2,high,Reduce storage temperature
+61.4,medium,Control humidity
+34.7,high,Reduce storage temperature; Control humidity
+50.6,medium,Control humidity
+67.6,medium,Standard storage adequate
+64.1,medium,Consider airtight container
+61.3,medium,Consider airtight container
+98.8,low,Reduce storage temperature
+103.3,low,Consider airtight container
+36.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+82.2,low,Standard storage adequate
+72.8,low,Standard storage adequate
+57.2,medium,Reduce storage temperature
+53.2,medium,Reduce storage temperature; Control humidity
+92.1,low,Standard storage adequate
+72.7,low,Reduce storage temperature
+68.5,medium,Standard storage adequate
+31.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+30.6,high,Reduce storage temperature; Control humidity
+81.0,low,Control humidity
+68.8,medium,Reduce storage temperature; Consider airtight container
+43.4,high,Reduce storage temperature
+39.9,high,Reduce storage temperature
+53.8,medium,Reduce storage temperature
+55.7,medium,Control humidity
+82.8,low,Standard storage adequate
+47.6,high,Reduce storage temperature; Control humidity
+92.8,low,Control humidity
+77.2,low,Standard storage adequate
+49.1,medium,Reduce storage temperature
+59.3,medium,Control humidity; Consider airtight container
+76.7,low,Standard storage adequate
+52.0,medium,Control humidity
+90.1,low,Standard storage adequate
+48.1,medium,Reduce storage temperature
+49.4,medium,Reduce storage temperature; Control humidity; Consider airtight container
+41.8,high,Reduce storage temperature
+56.0,medium,Reduce storage temperature
+58.5,medium,Reduce storage temperature; Consider airtight container
+41.8,high,Reduce storage temperature; Control humidity
+81.7,low,Control humidity
+74.9,low,Reduce storage temperature
+61.7,medium,Reduce storage temperature
+68.0,medium,Standard storage adequate
+45.9,high,Reduce storage temperature
+41.2,high,Reduce storage temperature; Consider airtight container
+80.5,low,Reduce storage temperature
+43.1,high,Reduce storage temperature
+33.7,high,Reduce storage temperature; Control humidity
+46.5,high,Reduce storage temperature; Control humidity
+68.5,medium,Reduce storage temperature
+71.0,medium,Standard storage adequate
+46.4,high,Reduce storage temperature
+65.3,medium,Standard storage adequate
+76.1,low,Standard storage adequate
+53.8,medium,Control humidity
+74.7,low,Standard storage adequate
+102.2,low,Standard storage adequate
+82.6,low,Consider airtight container
+50.5,medium,Standard storage adequate
+103.6,low,Standard storage adequate
+43.6,high,Reduce storage temperature; Control humidity
+79.2,low,Reduce storage temperature; Control humidity
+51.8,medium,Reduce storage temperature
+36.4,high,Reduce storage temperature; Control humidity
+47.3,high,Reduce storage temperature; Control humidity
+74.1,low,Control humidity
+54.1,medium,Reduce storage temperature; Control humidity
+43.5,high,Reduce storage temperature; Control humidity
+41.2,high,Reduce storage temperature; Control humidity
+60.5,medium,Reduce storage temperature; Control humidity
+86.5,low,Standard storage adequate
+27.7,high,Reduce storage temperature; Control humidity
+73.1,low,Reduce storage temperature
+51.2,medium,Reduce storage temperature; Control humidity
+29.5,high,Reduce storage temperature; Control humidity
+60.7,medium,Control humidity
+46.4,high,Reduce storage temperature
+50.4,medium,Reduce storage temperature
+60.3,medium,Control humidity
+54.6,medium,Standard storage adequate
+86.5,low,Standard storage adequate
+64.9,medium,Control humidity
+77.5,low,Standard storage adequate
+52.1,medium,Reduce storage temperature
+45.5,high,Reduce storage temperature; Control humidity
+69.2,medium,Reduce storage temperature
+73.3,low,Consider airtight container
+43.8,high,Reduce storage temperature
+67.5,medium,Reduce storage temperature
+37.5,high,Reduce storage temperature
+34.4,high,Reduce storage temperature; Control humidity
+40.8,high,Reduce storage temperature; Consider airtight container
+40.8,high,Reduce storage temperature; Control humidity
+50.1,medium,Control humidity
+34.3,high,Reduce storage temperature
+124.8,low,Standard storage adequate
+31.2,high,Reduce storage temperature; Control humidity
+45.2,high,Control humidity
+48.1,medium,Control humidity
+55.7,medium,Reduce storage temperature
+44.1,high,Reduce storage temperature; Control humidity
+42.6,high,Reduce storage temperature; Consider airtight container
+55.6,medium,Control humidity; Consider airtight container
+52.9,medium,Reduce storage temperature; Consider airtight container
+32.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+32.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+71.2,medium,Control humidity
+45.8,high,Reduce storage temperature; Control humidity
+42.1,high,Reduce storage temperature
+55.4,medium,Control humidity
+45.0,high,Reduce storage temperature; Control humidity
+59.8,medium,Reduce storage temperature; Control humidity
+64.5,medium,Reduce storage temperature; Consider airtight container
+51.2,medium,Reduce storage temperature; Control humidity; Consider airtight container
+43.1,high,Reduce storage temperature
+65.6,medium,Standard storage adequate
+75.6,low,Control humidity
+87.3,low,Standard storage adequate
+47.0,high,Reduce storage temperature
+68.1,medium,Reduce storage temperature
+70.3,medium,Control humidity
+42.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+71.4,medium,Consider airtight container
+46.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+63.8,medium,Standard storage adequate
+59.1,medium,Control humidity
+39.6,high,Reduce storage temperature
+35.2,high,Reduce storage temperature; Control humidity
+48.2,medium,Reduce storage temperature; Control humidity
+39.0,high,Reduce storage temperature; Control humidity
+48.4,medium,Control humidity
+55.1,medium,Standard storage adequate
+40.9,high,Reduce storage temperature
+57.6,medium,Reduce storage temperature
+51.8,medium,Reduce storage temperature
+59.7,medium,Reduce storage temperature
+27.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+53.4,medium,Standard storage adequate
+75.5,low,Reduce storage temperature; Control humidity
+70.9,medium,Standard storage adequate
+40.3,high,Reduce storage temperature
+33.2,high,Reduce storage temperature; Control humidity
+43.2,high,Reduce storage temperature; Consider airtight container
+48.9,medium,Reduce storage temperature; Consider airtight container
+73.1,low,Control humidity
+66.7,medium,Standard storage adequate
+67.3,medium,Standard storage adequate
+43.8,high,Control humidity
+71.8,medium,Consider airtight container
+58.4,medium,Control humidity
+44.1,high,Control humidity; Consider airtight container
+46.0,high,Control humidity
+63.3,medium,Standard storage adequate
+55.0,medium,Control humidity
+38.8,high,Control humidity
+51.8,medium,Reduce storage temperature; Control humidity
+51.8,medium,Control humidity; Consider airtight container
+35.2,high,Reduce storage temperature
+67.9,medium,Reduce storage temperature
+39.3,high,Reduce storage temperature; Control humidity
+57.4,medium,Reduce storage temperature
+100.3,low,Reduce storage temperature
+66.7,medium,Control humidity; Consider airtight container
+67.8,medium,Reduce storage temperature
+63.5,medium,Standard storage adequate
+88.8,low,Standard storage adequate
+42.5,high,Control humidity
+44.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+61.8,medium,Reduce storage temperature; Control humidity
+41.6,high,Reduce storage temperature
+39.3,high,Reduce storage temperature
+47.8,high,Reduce storage temperature
+38.3,high,Reduce storage temperature; Consider airtight container
+81.7,low,Reduce storage temperature
+45.7,high,Control humidity
+59.0,medium,Control humidity; Consider airtight container
+44.9,high,Reduce storage temperature
+69.3,medium,Reduce storage temperature
+55.3,medium,Reduce storage temperature; Control humidity
+50.1,medium,Reduce storage temperature; Consider airtight container
+32.1,high,Reduce storage temperature; Control humidity
+70.6,medium,Standard storage adequate
+77.4,low,Standard storage adequate
+84.8,low,Standard storage adequate
+57.5,medium,Control humidity
+70.5,medium,Standard storage adequate
+56.6,medium,Control humidity
+50.4,medium,Reduce storage temperature
+62.7,medium,Control humidity
+44.5,high,Reduce storage temperature; Consider airtight container
+79.8,low,Standard storage adequate
+56.4,medium,Reduce storage temperature
+52.2,medium,Reduce storage temperature
+32.6,high,Reduce storage temperature; Control humidity
+64.7,medium,Standard storage adequate
+96.3,low,Standard storage adequate
+84.4,low,Standard storage adequate
+30.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+56.7,medium,Reduce storage temperature
+50.2,medium,Reduce storage temperature; Control humidity
+70.8,medium,Reduce storage temperature
+46.7,high,Reduce storage temperature
+116.3,low,Standard storage adequate
+76.9,low,Control humidity
+52.5,medium,Reduce storage temperature
+29.4,high,Reduce storage temperature; Control humidity
+68.5,medium,Reduce storage temperature
+110.4,low,Reduce storage temperature
+43.3,high,Reduce storage temperature; Control humidity
+64.2,medium,Standard storage adequate
+43.6,high,Reduce storage temperature
+50.7,medium,Reduce storage temperature; Control humidity
+35.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+47.9,high,Reduce storage temperature; Consider airtight container
+32.0,high,Reduce storage temperature; Control humidity
+62.0,medium,Control humidity
+81.6,low,Standard storage adequate
+32.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+40.0,high,Reduce storage temperature; Consider airtight container
+63.3,medium,Reduce storage temperature; Control humidity
+61.4,medium,Reduce storage temperature; Control humidity
+35.8,high,Reduce storage temperature; Control humidity
+61.0,medium,Standard storage adequate
+63.6,medium,Standard storage adequate
+66.0,medium,Control humidity
+63.8,medium,Control humidity
+42.4,high,Reduce storage temperature; Control humidity
+54.8,medium,Control humidity; Consider airtight container
+46.4,high,Reduce storage temperature
+104.0,low,Standard storage adequate
+41.3,high,Reduce storage temperature; Control humidity
+44.9,high,Reduce storage temperature
+82.2,low,Reduce storage temperature
+55.3,medium,Control humidity; Consider airtight container
+70.4,medium,Reduce storage temperature; Consider airtight container
+64.9,medium,Control humidity
+28.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+52.2,medium,Reduce storage temperature; Control humidity
+29.3,high,Reduce storage temperature; Control humidity
+37.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+66.5,medium,Standard storage adequate
+49.6,medium,Reduce storage temperature
+69.2,medium,Standard storage adequate
+49.8,medium,Reduce storage temperature; Control humidity; Consider airtight container
+78.3,low,Standard storage adequate
+72.8,low,Control humidity
+76.8,low,Reduce storage temperature
+38.8,high,Reduce storage temperature; Consider airtight container
+57.0,medium,Reduce storage temperature
+80.2,low,Standard storage adequate
+82.5,low,Reduce storage temperature
+44.9,high,Reduce storage temperature
+54.2,medium,Control humidity
+74.9,low,Standard storage adequate
+55.5,medium,Reduce storage temperature
+54.6,medium,Reduce storage temperature
+42.0,high,Reduce storage temperature
+54.3,medium,Reduce storage temperature
+46.5,high,Reduce storage temperature
+47.2,high,Reduce storage temperature; Control humidity
+54.5,medium,Control humidity
+80.1,low,Consider airtight container
+63.1,medium,Reduce storage temperature
+80.0,low,Standard storage adequate
+58.0,medium,Reduce storage temperature; Control humidity
+88.1,low,Standard storage adequate
+54.2,medium,Reduce storage temperature
+69.5,medium,Consider airtight container
+70.3,medium,Standard storage adequate
+39.2,high,Reduce storage temperature
+60.3,medium,Consider airtight container
+54.2,medium,Control humidity
+45.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+51.0,medium,Reduce storage temperature; Consider airtight container
+56.2,medium,Reduce storage temperature
+41.2,high,Reduce storage temperature; Control humidity
+69.2,medium,Control humidity
+58.8,medium,Reduce storage temperature; Control humidity
+53.9,medium,Control humidity
+37.2,high,Reduce storage temperature; Control humidity
+54.4,medium,Standard storage adequate
+46.6,high,Reduce storage temperature; Consider airtight container
+61.8,medium,Reduce storage temperature; Control humidity
+39.5,high,Reduce storage temperature; Control humidity
+49.4,medium,Control humidity; Consider airtight container
+79.1,low,Standard storage adequate
+43.1,high,Reduce storage temperature; Control humidity
+44.7,high,Reduce storage temperature; Control humidity
+33.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+39.1,high,Reduce storage temperature
+60.5,medium,Control humidity
+50.1,medium,Reduce storage temperature
+44.9,high,Control humidity; Consider airtight container
+33.9,high,Reduce storage temperature; Control humidity
+59.6,medium,Reduce storage temperature
+42.6,high,Reduce storage temperature; Consider airtight container
+66.4,medium,Reduce storage temperature
+90.0,low,Reduce storage temperature
+42.1,high,Reduce storage temperature; Control humidity
+39.3,high,Reduce storage temperature; Control humidity
+36.3,high,Reduce storage temperature; Control humidity
+47.2,high,Reduce storage temperature; Consider airtight container
+51.3,medium,Reduce storage temperature
+76.5,low,Standard storage adequate
+59.1,medium,Reduce storage temperature
+91.4,low,Reduce storage temperature
+51.1,medium,Control humidity
+86.8,low,Reduce storage temperature
+68.5,medium,Standard storage adequate
+66.3,medium,Control humidity
+67.0,medium,Standard storage adequate
+68.3,medium,Reduce storage temperature; Control humidity
+48.2,medium,Reduce storage temperature
+48.4,medium,Reduce storage temperature; Control humidity; Consider airtight container
+76.2,low,Control humidity
+40.2,high,Reduce storage temperature; Consider airtight container
+33.1,high,Reduce storage temperature; Control humidity
+52.2,medium,Reduce storage temperature
+70.3,medium,Standard storage adequate
+53.5,medium,Reduce storage temperature; Control humidity
+34.5,high,Reduce storage temperature; Control humidity
+59.0,medium,Standard storage adequate
+34.9,high,Reduce storage temperature; Control humidity
+53.0,medium,Reduce storage temperature
+59.5,medium,Control humidity; Consider airtight container
+63.8,medium,Reduce storage temperature
+89.5,low,Reduce storage temperature
+65.1,medium,Standard storage adequate
+38.9,high,Reduce storage temperature; Consider airtight container
+62.9,medium,Control humidity
+80.3,low,Standard storage adequate
+44.7,high,Reduce storage temperature; Consider airtight container
+63.9,medium,Reduce storage temperature
+61.7,medium,Reduce storage temperature; Control humidity
+61.7,medium,Control humidity
+57.3,medium,Consider airtight container
+52.4,medium,Reduce storage temperature; Consider airtight container
+53.7,medium,Reduce storage temperature; Control humidity
+36.4,high,Reduce storage temperature; Control humidity
+82.1,low,Standard storage adequate
+40.8,high,Control humidity; Consider airtight container
+53.3,medium,Reduce storage temperature; Control humidity
+57.2,medium,Reduce storage temperature
+110.9,low,Standard storage adequate
+42.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+74.3,low,Reduce storage temperature; Control humidity
+101.4,low,Standard storage adequate
+45.5,high,Reduce storage temperature; Consider airtight container
+68.1,medium,Standard storage adequate
+63.3,medium,Reduce storage temperature
+72.0,low,Control humidity
+78.9,low,Consider airtight container
+45.8,high,Reduce storage temperature
+68.1,medium,Control humidity; Consider airtight container
+60.5,medium,Reduce storage temperature
+54.8,medium,Control humidity
+62.0,medium,Reduce storage temperature; Control humidity
+57.1,medium,Reduce storage temperature
+53.3,medium,Control humidity
+70.4,medium,Standard storage adequate
+102.3,low,Standard storage adequate
+43.1,high,Reduce storage temperature; Control humidity
+45.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+41.3,high,Reduce storage temperature; Consider airtight container
+57.0,medium,Control humidity
+40.0,high,Reduce storage temperature; Consider airtight container
+45.2,high,Reduce storage temperature
+46.8,high,Reduce storage temperature; Control humidity
+60.6,medium,Reduce storage temperature
+79.7,low,Standard storage adequate
+40.5,high,Reduce storage temperature
+55.6,medium,Reduce storage temperature
+54.4,medium,Control humidity; Consider airtight container
+40.3,high,Reduce storage temperature
+70.2,medium,Standard storage adequate
+51.8,medium,Control humidity
+34.2,high,Reduce storage temperature; Control humidity
+86.6,low,Standard storage adequate
+45.2,high,Control humidity
+35.6,high,Reduce storage temperature; Control humidity
+39.8,high,Reduce storage temperature; Consider airtight container
+61.2,medium,Reduce storage temperature; Consider airtight container
+35.9,high,Reduce storage temperature; Control humidity
+48.8,medium,Reduce storage temperature; Consider airtight container
+60.8,medium,Control humidity
+57.9,medium,Control humidity
+52.2,medium,Reduce storage temperature; Consider airtight container
+65.1,medium,Control humidity; Consider airtight container
+115.0,low,Standard storage adequate
+89.4,low,Standard storage adequate
+39.4,high,Reduce storage temperature
+114.6,low,Standard storage adequate
+44.6,high,Reduce storage temperature; Control humidity
+30.5,high,Reduce storage temperature; Control humidity
+50.4,medium,Reduce storage temperature
+50.9,medium,Reduce storage temperature
+58.0,medium,Control humidity; Consider airtight container
+69.8,medium,Standard storage adequate
+51.4,medium,Reduce storage temperature; Control humidity
+54.0,medium,Reduce storage temperature; Consider airtight container
+65.1,medium,Reduce storage temperature
+80.0,low,Standard storage adequate
+64.0,medium,Standard storage adequate
+65.0,medium,Control humidity
+63.3,medium,Reduce storage temperature
+67.1,medium,Consider airtight container
+57.9,medium,Reduce storage temperature; Control humidity
+58.0,medium,Control humidity
+45.0,high,Control humidity
+62.6,medium,Reduce storage temperature
+89.3,low,Reduce storage temperature
+89.3,low,Standard storage adequate
+31.6,high,Reduce storage temperature; Control humidity
+50.0,medium,Control humidity
+47.4,high,Reduce storage temperature; Control humidity
+79.4,low,Control humidity
+31.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+66.1,medium,Standard storage adequate
+61.4,medium,Reduce storage temperature
+57.9,medium,Standard storage adequate
+63.1,medium,Standard storage adequate
+57.5,medium,Reduce storage temperature; Control humidity
+46.8,high,Reduce storage temperature
+38.3,high,Reduce storage temperature
+69.2,medium,Reduce storage temperature
+40.7,high,Reduce storage temperature; Control humidity
+37.8,high,Reduce storage temperature
+57.5,medium,Reduce storage temperature
+35.0,high,Reduce storage temperature
+59.2,medium,Reduce storage temperature; Control humidity
+55.2,medium,Control humidity; Consider airtight container
+86.7,low,Standard storage adequate
+69.2,medium,Reduce storage temperature
+78.9,low,Reduce storage temperature
+43.9,high,Reduce storage temperature
+30.6,high,Reduce storage temperature; Control humidity
+66.1,medium,Control humidity; Consider airtight container
+75.4,low,Consider airtight container
+61.1,medium,Control humidity
+31.8,high,Reduce storage temperature; Control humidity
+44.2,high,Reduce storage temperature; Consider airtight container
+39.7,high,Reduce storage temperature
+83.8,low,Standard storage adequate
+40.3,high,Reduce storage temperature
+44.4,high,Reduce storage temperature; Control humidity
+30.1,high,Reduce storage temperature; Control humidity
+98.9,low,Standard storage adequate
+78.9,low,Standard storage adequate
+63.2,medium,Control humidity
+86.3,low,Standard storage adequate
+47.6,high,Reduce storage temperature; Control humidity
+48.2,medium,Reduce storage temperature; Control humidity
+82.2,low,Standard storage adequate
+70.8,medium,Reduce storage temperature
+56.4,medium,Reduce storage temperature
+110.1,low,Standard storage adequate
+62.1,medium,Reduce storage temperature; Consider airtight container
+51.4,medium,Reduce storage temperature; Control humidity
+83.0,low,Standard storage adequate
+45.6,high,Control humidity
+30.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+64.6,medium,Control humidity
+42.8,high,Reduce storage temperature; Control humidity
+56.4,medium,Reduce storage temperature; Consider airtight container
+66.5,medium,Control humidity
+65.7,medium,Control humidity
+57.3,medium,Control humidity
+50.8,medium,Reduce storage temperature; Control humidity
+77.8,low,Reduce storage temperature
+45.8,high,Reduce storage temperature; Control humidity
+45.6,high,Reduce storage temperature; Consider airtight container
+59.0,medium,Reduce storage temperature; Control humidity
+67.7,medium,Reduce storage temperature; Control humidity
+88.5,low,Standard storage adequate
+69.3,medium,Standard storage adequate
+47.8,high,Reduce storage temperature
+49.0,medium,Reduce storage temperature; Control humidity
+56.8,medium,Reduce storage temperature; Control humidity; Consider airtight container
+53.9,medium,Reduce storage temperature; Consider airtight container
+39.6,high,Reduce storage temperature; Control humidity
+78.3,low,Control humidity
+44.6,high,Reduce storage temperature; Consider airtight container
+50.3,medium,Reduce storage temperature; Control humidity
+49.7,medium,Reduce storage temperature; Consider airtight container
+61.9,medium,Reduce storage temperature
+84.1,low,Reduce storage temperature
+34.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+57.6,medium,Reduce storage temperature; Control humidity
+30.5,high,Reduce storage temperature; Control humidity
+67.4,medium,Standard storage adequate
+60.1,medium,Control humidity
+37.2,high,Reduce storage temperature; Control humidity
+43.9,high,Control humidity
+68.3,medium,Standard storage adequate
+42.9,high,Reduce storage temperature; Control humidity
+38.2,high,Reduce storage temperature; Control humidity
+89.5,low,Standard storage adequate
+64.3,medium,Reduce storage temperature; Consider airtight container
+85.2,low,Standard storage adequate
+104.9,low,Standard storage adequate
+59.6,medium,Control humidity
+85.5,low,Standard storage adequate
+58.9,medium,Control humidity
+109.5,low,Reduce storage temperature
+61.6,medium,Standard storage adequate
+45.7,high,Reduce storage temperature; Consider airtight container
+53.5,medium,Control humidity
+52.0,medium,Reduce storage temperature; Control humidity
+82.7,low,Standard storage adequate
+62.5,medium,Standard storage adequate
+47.0,high,Control humidity
+85.2,low,Control humidity
+40.9,high,Reduce storage temperature; Consider airtight container
+41.1,high,Reduce storage temperature
+48.1,medium,Reduce storage temperature
+46.4,high,Control humidity; Consider airtight container
+58.5,medium,Reduce storage temperature; Consider airtight container
+34.3,high,Reduce storage temperature
+56.7,medium,Reduce storage temperature
+46.9,high,Reduce storage temperature
+48.4,medium,Control humidity
+91.5,low,Consider airtight container
+50.4,medium,Reduce storage temperature; Control humidity; Consider airtight container
+49.9,medium,Reduce storage temperature; Control humidity
+44.0,high,Reduce storage temperature; Control humidity
+64.4,medium,Control humidity
+84.2,low,Reduce storage temperature
+53.3,medium,Control humidity
+39.8,high,Reduce storage temperature; Control humidity
+66.9,medium,Consider airtight container
+55.8,medium,Reduce storage temperature
+56.6,medium,Reduce storage temperature
+76.9,low,Standard storage adequate
+38.3,high,Reduce storage temperature; Control humidity
+72.0,low,Standard storage adequate
+49.6,medium,Reduce storage temperature
+42.5,high,Reduce storage temperature
+89.5,low,Control humidity
+37.9,high,Reduce storage temperature; Consider airtight container
+38.3,high,Reduce storage temperature
+73.6,low,Standard storage adequate
+74.9,low,Consider airtight container
+42.3,high,Reduce storage temperature
+59.3,medium,Control humidity
+76.9,low,Consider airtight container
+38.4,high,Reduce storage temperature; Control humidity
+59.9,medium,Reduce storage temperature
+67.1,medium,Reduce storage temperature
+60.1,medium,Reduce storage temperature; Control humidity
+82.1,low,Control humidity
+62.8,medium,Reduce storage temperature
+94.9,low,Standard storage adequate
+38.4,high,Reduce storage temperature
+57.8,medium,Standard storage adequate
+52.2,medium,Control humidity
+54.1,medium,Control humidity
+65.4,medium,Reduce storage temperature; Consider airtight container
+61.2,medium,Reduce storage temperature; Control humidity
+40.4,high,Reduce storage temperature
+34.3,high,Reduce storage temperature; Control humidity
+60.6,medium,Reduce storage temperature
+70.1,medium,Standard storage adequate
+41.2,high,Reduce storage temperature; Control humidity
+55.6,medium,Reduce storage temperature
+55.8,medium,Consider airtight container
+79.4,low,Standard storage adequate
+47.7,high,Reduce storage temperature; Control humidity
+50.8,medium,Reduce storage temperature; Control humidity
+45.6,high,Reduce storage temperature
+57.1,medium,Control humidity
+39.4,high,Reduce storage temperature
+55.0,medium,Reduce storage temperature
+55.4,medium,Control humidity
+76.0,low,Standard storage adequate
+34.1,high,Reduce storage temperature; Control humidity
+54.2,medium,Control humidity
+74.2,low,Standard storage adequate
+81.4,low,Reduce storage temperature
+55.6,medium,Reduce storage temperature
+50.7,medium,Control humidity
+33.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+93.3,low,Reduce storage temperature
+68.0,medium,Control humidity; Consider airtight container
+35.5,high,Reduce storage temperature; Control humidity
+34.9,high,Reduce storage temperature; Consider airtight container
+46.7,high,Reduce storage temperature
+38.5,high,Reduce storage temperature; Consider airtight container
+82.0,low,Standard storage adequate
+53.8,medium,Control humidity; Consider airtight container
+56.0,medium,Reduce storage temperature
+87.8,low,Standard storage adequate
+65.6,medium,Reduce storage temperature
+47.7,high,Reduce storage temperature
+80.7,low,Standard storage adequate
+58.2,medium,Reduce storage temperature; Control humidity
+54.5,medium,Reduce storage temperature; Consider airtight container
+71.3,medium,Consider airtight container
+76.5,low,Standard storage adequate
+47.2,high,Control humidity
+68.8,medium,Control humidity
+54.9,medium,Control humidity
+44.3,high,Control humidity; Consider airtight container
+95.4,low,Reduce storage temperature
+53.4,medium,Control humidity; Consider airtight container
+70.9,medium,Standard storage adequate
+84.8,low,Control humidity
+79.1,low,Reduce storage temperature
+36.8,high,Reduce storage temperature
+29.3,high,Reduce storage temperature; Control humidity
+46.0,high,Reduce storage temperature; Consider airtight container
+61.6,medium,Reduce storage temperature; Consider airtight container
+41.6,high,Reduce storage temperature
+53.5,medium,Standard storage adequate
+58.8,medium,Reduce storage temperature; Consider airtight container
+48.1,medium,Reduce storage temperature
+107.2,low,Standard storage adequate
+55.5,medium,Reduce storage temperature
+85.0,low,Reduce storage temperature
+79.2,low,Standard storage adequate
+55.1,medium,Reduce storage temperature
+38.9,high,Reduce storage temperature; Control humidity
+29.5,high,Reduce storage temperature; Control humidity
+29.8,high,Reduce storage temperature; Control humidity
+38.4,high,Reduce storage temperature; Consider airtight container
+52.0,medium,Reduce storage temperature; Control humidity
+68.6,medium,Standard storage adequate
+78.1,low,Standard storage adequate
+107.2,low,Standard storage adequate
+45.0,high,Reduce storage temperature; Control humidity
+44.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+45.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+50.4,medium,Reduce storage temperature
+51.1,medium,Reduce storage temperature; Control humidity; Consider airtight container
+48.0,medium,Standard storage adequate
+61.2,medium,Consider airtight container
+60.2,medium,Control humidity
+62.0,medium,Reduce storage temperature
+35.5,high,Reduce storage temperature; Control humidity
+52.5,medium,Reduce storage temperature
+44.7,high,Reduce storage temperature
+92.3,low,Standard storage adequate
+65.1,medium,Standard storage adequate
+59.4,medium,Standard storage adequate
+55.5,medium,Reduce storage temperature; Control humidity
+50.6,medium,Reduce storage temperature
+36.6,high,Reduce storage temperature
+49.1,medium,Reduce storage temperature; Control humidity
+54.5,medium,Reduce storage temperature
+80.2,low,Standard storage adequate
+92.0,low,Reduce storage temperature
+45.8,high,Reduce storage temperature
+75.6,low,Consider airtight container
+52.2,medium,Reduce storage temperature; Control humidity
+50.0,medium,Reduce storage temperature
+53.9,medium,Reduce storage temperature; Control humidity; Consider airtight container
+59.3,medium,Reduce storage temperature; Consider airtight container
+49.2,medium,Reduce storage temperature; Consider airtight container
+110.2,low,Standard storage adequate
+52.8,medium,Reduce storage temperature; Control humidity
+44.0,high,Reduce storage temperature; Consider airtight container
+57.6,medium,Reduce storage temperature; Control humidity
+32.8,high,Reduce storage temperature; Control humidity
+49.2,medium,Reduce storage temperature; Control humidity
+94.1,low,Control humidity
+83.8,low,Control humidity
+58.3,medium,Standard storage adequate
+46.0,high,Reduce storage temperature; Control humidity
+42.3,high,Reduce storage temperature; Consider airtight container
+59.6,medium,Reduce storage temperature
+67.3,medium,Reduce storage temperature
+70.3,medium,Standard storage adequate
+47.9,high,Reduce storage temperature; Control humidity
+80.8,low,Control humidity
+43.7,high,Reduce storage temperature
+79.5,low,Reduce storage temperature
+69.4,medium,Standard storage adequate
+52.8,medium,Consider airtight container
+45.4,high,Reduce storage temperature; Control humidity
+55.2,medium,Reduce storage temperature
+46.8,high,Control humidity; Consider airtight container
+49.9,medium,Reduce storage temperature
+57.8,medium,Control humidity
+33.7,high,Reduce storage temperature; Control humidity
+33.5,high,Reduce storage temperature; Control humidity
+42.8,high,Reduce storage temperature; Consider airtight container
+66.4,medium,Consider airtight container
+86.1,low,Consider airtight container
+71.4,medium,Standard storage adequate
+76.2,low,Control humidity
+33.6,high,Reduce storage temperature; Control humidity
+52.3,medium,Reduce storage temperature
+47.3,high,Reduce storage temperature; Control humidity
+48.9,medium,Reduce storage temperature
+80.4,low,Standard storage adequate
+48.4,medium,Reduce storage temperature
+42.4,high,Reduce storage temperature; Control humidity
+43.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+60.8,medium,Reduce storage temperature; Control humidity
+50.8,medium,Reduce storage temperature; Consider airtight container
+77.4,low,Control humidity
+55.2,medium,Reduce storage temperature
+48.6,medium,Reduce storage temperature
+41.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+43.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+94.3,low,Standard storage adequate
+47.3,high,Reduce storage temperature
+33.2,high,Reduce storage temperature
+55.3,medium,Reduce storage temperature
+86.4,low,Reduce storage temperature
+69.8,medium,Standard storage adequate
+64.0,medium,Reduce storage temperature; Consider airtight container
+48.3,medium,Reduce storage temperature
+53.4,medium,Reduce storage temperature; Control humidity
+37.5,high,Reduce storage temperature
+26.3,high,Reduce storage temperature; Control humidity
+84.0,low,Standard storage adequate
+68.2,medium,Consider airtight container
+43.7,high,Reduce storage temperature; Control humidity
+55.2,medium,Standard storage adequate
+31.3,high,Reduce storage temperature; Control humidity
+88.0,low,Consider airtight container
+36.9,high,Reduce storage temperature; Control humidity
+44.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+89.2,low,Standard storage adequate
+78.5,low,Standard storage adequate
+53.5,medium,Consider airtight container
+31.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+54.4,medium,Control humidity
+50.7,medium,Reduce storage temperature
+66.5,medium,Standard storage adequate
+50.3,medium,Reduce storage temperature; Control humidity
+74.0,low,Control humidity
+76.4,low,Standard storage adequate
+68.8,medium,Standard storage adequate
+29.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+67.6,medium,Control humidity
+42.1,high,Reduce storage temperature
+58.9,medium,Reduce storage temperature; Control humidity
+43.1,high,Reduce storage temperature
+28.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+72.3,low,Reduce storage temperature
+46.3,high,Reduce storage temperature
+44.3,high,Reduce storage temperature
+62.6,medium,Reduce storage temperature; Control humidity; Consider airtight container
+102.5,low,Standard storage adequate
+56.2,medium,Reduce storage temperature
+36.1,high,Reduce storage temperature; Control humidity
+50.9,medium,Reduce storage temperature
+41.2,high,Reduce storage temperature
+68.8,medium,Control humidity; Consider airtight container
+76.8,low,Consider airtight container
+74.4,low,Standard storage adequate
+68.9,medium,Reduce storage temperature
+57.2,medium,Control humidity
+31.0,high,Reduce storage temperature; Control humidity
+55.2,medium,Reduce storage temperature
+50.3,medium,Control humidity; Consider airtight container
+54.5,medium,Reduce storage temperature
+37.0,high,Reduce storage temperature
+39.7,high,Reduce storage temperature; Control humidity
+49.5,medium,Control humidity
+63.6,medium,Reduce storage temperature
+92.8,low,Standard storage adequate
+45.4,high,Reduce storage temperature; Control humidity
+47.1,high,Control humidity
+40.8,high,Reduce storage temperature
+76.1,low,Standard storage adequate
+62.2,medium,Standard storage adequate
+50.3,medium,Standard storage adequate
+56.8,medium,Reduce storage temperature
+55.2,medium,Standard storage adequate
+53.8,medium,Control humidity; Consider airtight container
+38.9,high,Reduce storage temperature
+37.3,high,Reduce storage temperature; Control humidity
+52.7,medium,Reduce storage temperature; Control humidity
+72.6,low,Control humidity
+45.3,high,Reduce storage temperature; Control humidity
+48.7,medium,Reduce storage temperature; Control humidity
+60.1,medium,Reduce storage temperature
+26.5,high,Reduce storage temperature; Control humidity
+85.9,low,Standard storage adequate
+69.0,medium,Standard storage adequate
+75.3,low,Reduce storage temperature
+55.8,medium,Standard storage adequate
+77.2,low,Standard storage adequate
+78.1,low,Standard storage adequate
+55.2,medium,Reduce storage temperature
+67.9,medium,Reduce storage temperature
+52.8,medium,Reduce storage temperature; Control humidity
+65.3,medium,Reduce storage temperature
+62.9,medium,Reduce storage temperature; Control humidity
+46.6,high,Control humidity
+61.3,medium,Control humidity
+55.3,medium,Reduce storage temperature
+47.9,high,Reduce storage temperature; Control humidity
+50.5,medium,Reduce storage temperature; Control humidity
+28.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+47.6,high,Reduce storage temperature; Control humidity
+37.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+51.2,medium,Reduce storage temperature
+79.1,low,Control humidity
+49.4,medium,Reduce storage temperature; Control humidity; Consider airtight container
+53.6,medium,Control humidity
+42.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+54.4,medium,Standard storage adequate
+31.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+33.0,high,Reduce storage temperature
+76.6,low,Consider airtight container
+49.2,medium,Reduce storage temperature
+29.2,high,Reduce storage temperature; Control humidity
+47.6,high,Reduce storage temperature
+41.9,high,Reduce storage temperature; Control humidity
+59.1,medium,Standard storage adequate
+33.5,high,Reduce storage temperature; Control humidity
+39.9,high,Reduce storage temperature; Control humidity
+35.0,high,Reduce storage temperature; Consider airtight container
+90.6,low,Standard storage adequate
+35.2,high,Reduce storage temperature
+40.7,high,Reduce storage temperature; Control humidity
+62.0,medium,Standard storage adequate
+35.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+28.0,high,Reduce storage temperature; Control humidity
+46.9,high,Reduce storage temperature
+51.9,medium,Reduce storage temperature; Control humidity
+71.0,medium,Reduce storage temperature
+57.2,medium,Reduce storage temperature
+70.4,medium,Reduce storage temperature; Consider airtight container
+60.0,medium,Reduce storage temperature
+94.4,low,Standard storage adequate
+67.6,medium,Reduce storage temperature
+46.3,high,Control humidity
+65.9,medium,Standard storage adequate
+78.4,low,Reduce storage temperature; Control humidity
+35.6,high,Reduce storage temperature; Control humidity
+45.5,high,Reduce storage temperature
+53.0,medium,Reduce storage temperature; Control humidity
+47.6,high,Control humidity
+45.6,high,Reduce storage temperature; Control humidity
+38.3,high,Reduce storage temperature
+57.0,medium,Control humidity
+88.8,low,Standard storage adequate
+42.5,high,Reduce storage temperature
+65.1,medium,Reduce storage temperature
+33.8,high,Reduce storage temperature
+50.8,medium,Control humidity; Consider airtight container
+54.5,medium,Reduce storage temperature; Control humidity
+55.6,medium,Reduce storage temperature; Consider airtight container
+52.8,medium,Reduce storage temperature; Consider airtight container
+44.1,high,Reduce storage temperature
+45.8,high,Reduce storage temperature
+60.4,medium,Standard storage adequate
+72.1,low,Standard storage adequate
+71.4,medium,Consider airtight container
+72.5,low,Standard storage adequate
+39.6,high,Reduce storage temperature; Consider airtight container
+39.7,high,Reduce storage temperature
+66.1,medium,Control humidity
+53.8,medium,Reduce storage temperature
+76.8,low,Control humidity
+29.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+57.6,medium,Standard storage adequate
+44.4,high,Reduce storage temperature
+81.2,low,Control humidity
+62.8,medium,Reduce storage temperature; Control humidity
+103.9,low,Standard storage adequate
+72.9,low,Standard storage adequate
+34.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+73.3,low,Control humidity
+47.3,high,Reduce storage temperature
+47.2,high,Reduce storage temperature; Control humidity
+55.6,medium,Reduce storage temperature
+51.3,medium,Reduce storage temperature; Consider airtight container
+63.5,medium,Reduce storage temperature; Consider airtight container
+45.0,high,Reduce storage temperature; Control humidity
+66.5,medium,Standard storage adequate
+49.4,medium,Reduce storage temperature; Control humidity
+81.4,low,Standard storage adequate
+59.8,medium,Reduce storage temperature; Control humidity
+52.2,medium,Reduce storage temperature
+32.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+81.5,low,Standard storage adequate
+58.1,medium,Reduce storage temperature; Control humidity
+42.1,high,Reduce storage temperature; Control humidity
+80.3,low,Control humidity
+54.7,medium,Control humidity
+38.1,high,Reduce storage temperature; Control humidity
+58.4,medium,Reduce storage temperature
+59.6,medium,Standard storage adequate
+67.7,medium,Standard storage adequate
+44.5,high,Reduce storage temperature; Control humidity
+31.6,high,Reduce storage temperature; Control humidity
+45.1,high,Reduce storage temperature; Control humidity
+72.1,low,Control humidity
+48.4,medium,Control humidity
+71.3,medium,Standard storage adequate
+37.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+83.8,low,Standard storage adequate
+57.1,medium,Control humidity; Consider airtight container
+91.6,low,Standard storage adequate
+49.7,medium,Reduce storage temperature
+39.6,high,Reduce storage temperature; Consider airtight container
+50.9,medium,Control humidity
+39.8,high,Reduce storage temperature
+55.4,medium,Control humidity
+40.1,high,Control humidity; Consider airtight container
+83.2,low,Reduce storage temperature; Control humidity
+81.0,low,Reduce storage temperature
+45.4,high,Control humidity; Consider airtight container
+48.6,medium,Reduce storage temperature
+75.9,low,Standard storage adequate
+51.4,medium,Control humidity
+59.6,medium,Reduce storage temperature
+60.2,medium,Reduce storage temperature
+68.5,medium,Reduce storage temperature
+34.7,high,Reduce storage temperature; Control humidity
+60.6,medium,Control humidity
+40.5,high,Reduce storage temperature; Consider airtight container
+55.8,medium,Control humidity
+70.4,medium,Standard storage adequate
+60.3,medium,Reduce storage temperature; Consider airtight container
+69.6,medium,Standard storage adequate
+92.7,low,Standard storage adequate
+65.3,medium,Reduce storage temperature
+39.4,high,Reduce storage temperature; Consider airtight container
+29.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+77.5,low,Consider airtight container
+28.2,high,Reduce storage temperature; Control humidity
+61.1,medium,Control humidity
+40.7,high,Reduce storage temperature; Control humidity
+89.9,low,Standard storage adequate
+58.3,medium,Reduce storage temperature; Control humidity
+61.4,medium,Control humidity
+47.8,high,Control humidity
+59.6,medium,Reduce storage temperature; Consider airtight container
+41.2,high,Reduce storage temperature
+35.4,high,Reduce storage temperature; Control humidity
+67.4,medium,Reduce storage temperature
+47.6,high,Reduce storage temperature; Control humidity
+42.0,high,Reduce storage temperature; Control humidity
+60.4,medium,Reduce storage temperature; Consider airtight container
+53.1,medium,Reduce storage temperature; Consider airtight container
+62.8,medium,Reduce storage temperature
+42.4,high,Reduce storage temperature
+36.8,high,Reduce storage temperature; Control humidity
+63.3,medium,Standard storage adequate
+81.1,low,Control humidity
+75.4,low,Standard storage adequate
+66.0,medium,Consider airtight container
+69.2,medium,Reduce storage temperature; Control humidity
+32.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+75.1,low,Standard storage adequate
+62.5,medium,Reduce storage temperature
+77.0,low,Consider airtight container
+46.1,high,Reduce storage temperature; Consider airtight container
+61.1,medium,Reduce storage temperature
+54.0,medium,Reduce storage temperature
+33.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+73.2,low,Reduce storage temperature
+61.8,medium,Reduce storage temperature; Control humidity
+44.5,high,Reduce storage temperature
+63.2,medium,Reduce storage temperature; Control humidity
+57.1,medium,Control humidity; Consider airtight container
+44.7,high,Reduce storage temperature
+33.7,high,Reduce storage temperature; Control humidity
+40.7,high,Reduce storage temperature; Consider airtight container
+90.2,low,Control humidity
+85.9,low,Reduce storage temperature
+76.6,low,Standard storage adequate
+31.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+83.1,low,Standard storage adequate
+100.0,low,Standard storage adequate
+97.4,low,Standard storage adequate
+45.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+67.2,medium,Control humidity
+34.5,high,Reduce storage temperature; Control humidity
+60.6,medium,Reduce storage temperature
+49.2,medium,Reduce storage temperature; Control humidity
+47.8,high,Control humidity
+28.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+68.2,medium,Standard storage adequate
+58.8,medium,Reduce storage temperature; Control humidity
+46.0,high,Reduce storage temperature
+101.0,low,Standard storage adequate
+36.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+31.8,high,Reduce storage temperature; Control humidity
+36.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+62.0,medium,Standard storage adequate
+72.4,low,Standard storage adequate
+81.0,low,Control humidity
+57.9,medium,Reduce storage temperature; Control humidity
+51.6,medium,Reduce storage temperature
+96.4,low,Standard storage adequate
+47.0,high,Control humidity
+38.6,high,Reduce storage temperature; Consider airtight container
+46.0,high,Reduce storage temperature; Control humidity
+60.6,medium,Control humidity
+56.0,medium,Standard storage adequate
+67.5,medium,Reduce storage temperature; Consider airtight container
+59.8,medium,Reduce storage temperature; Control humidity
+30.9,high,Reduce storage temperature; Control humidity
+66.9,medium,Control humidity
+59.4,medium,Consider airtight container
+65.7,medium,Reduce storage temperature
+47.5,high,Reduce storage temperature; Control humidity
+39.7,high,Reduce storage temperature; Control humidity
+38.4,high,Reduce storage temperature; Control humidity
+41.7,high,Reduce storage temperature; Control humidity
+47.7,high,Reduce storage temperature; Control humidity
+32.2,high,Reduce storage temperature; Control humidity
+56.2,medium,Reduce storage temperature
+58.5,medium,Standard storage adequate
+65.9,medium,Reduce storage temperature
+53.4,medium,Reduce storage temperature; Control humidity
+99.7,low,Control humidity
+63.4,medium,Control humidity
+81.3,low,Control humidity
+75.1,low,Reduce storage temperature; Control humidity
+61.8,medium,Reduce storage temperature
+44.1,high,Reduce storage temperature
+56.2,medium,Reduce storage temperature
+41.3,high,Reduce storage temperature; Control humidity
+42.6,high,Reduce storage temperature
+77.5,low,Reduce storage temperature
+77.0,low,Control humidity
+37.2,high,Reduce storage temperature
+68.8,medium,Standard storage adequate
+71.9,medium,Standard storage adequate
+53.8,medium,Reduce storage temperature
+35.3,high,Reduce storage temperature; Control humidity
+77.8,low,Standard storage adequate
+82.6,low,Standard storage adequate
+67.4,medium,Reduce storage temperature; Consider airtight container
+62.6,medium,Control humidity; Consider airtight container
+44.0,high,Reduce storage temperature; Control humidity
+48.3,medium,Control humidity
+61.3,medium,Control humidity
+84.9,low,Standard storage adequate
+91.9,low,Standard storage adequate
+43.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+69.3,medium,Reduce storage temperature
+31.1,high,Reduce storage temperature; Control humidity
+30.2,high,Reduce storage temperature; Control humidity
+81.3,low,Reduce storage temperature
+54.6,medium,Reduce storage temperature; Control humidity
+45.7,high,Control humidity; Consider airtight container
+66.2,medium,Reduce storage temperature
+78.1,low,Standard storage adequate
+50.5,medium,Reduce storage temperature; Control humidity
+52.9,medium,Reduce storage temperature
+52.7,medium,Control humidity
+56.8,medium,Reduce storage temperature; Control humidity; Consider airtight container
+57.1,medium,Reduce storage temperature; Consider airtight container
+42.0,high,Control humidity; Consider airtight container
+105.6,low,Standard storage adequate
+71.7,medium,Control humidity
+43.2,high,Reduce storage temperature; Control humidity
+56.5,medium,Reduce storage temperature
+101.9,low,Reduce storage temperature
+81.5,low,Reduce storage temperature
+80.1,low,Standard storage adequate
+63.4,medium,Reduce storage temperature
+82.1,low,Reduce storage temperature; Control humidity
+70.8,medium,Reduce storage temperature
+41.7,high,Reduce storage temperature; Consider airtight container
+54.0,medium,Control humidity
+94.0,low,Reduce storage temperature
+49.9,medium,Reduce storage temperature
+39.1,high,Reduce storage temperature; Consider airtight container
+62.6,medium,Reduce storage temperature
+45.6,high,Reduce storage temperature; Control humidity
+41.1,high,Control humidity; Consider airtight container
+56.7,medium,Reduce storage temperature; Control humidity; Consider airtight container
+49.9,medium,Reduce storage temperature
+71.8,medium,Reduce storage temperature; Control humidity
+100.8,low,Standard storage adequate
+45.1,high,Control humidity
+52.8,medium,Control humidity; Consider airtight container
+43.2,high,Reduce storage temperature; Control humidity
+36.3,high,Reduce storage temperature; Consider airtight container
+47.2,high,Reduce storage temperature; Control humidity
+50.9,medium,Reduce storage temperature
+59.5,medium,Reduce storage temperature
+35.6,high,Reduce storage temperature; Control humidity
+36.8,high,Reduce storage temperature; Consider airtight container
+42.9,high,Reduce storage temperature
+104.5,low,Standard storage adequate
+59.8,medium,Reduce storage temperature; Consider airtight container
+66.4,medium,Consider airtight container
+37.8,high,Reduce storage temperature; Control humidity
+46.3,high,Reduce storage temperature; Consider airtight container
+55.5,medium,Reduce storage temperature; Control humidity
+61.2,medium,Standard storage adequate
+47.9,high,Reduce storage temperature; Consider airtight container
+68.2,medium,Standard storage adequate
+56.8,medium,Reduce storage temperature; Consider airtight container
+45.7,high,Reduce storage temperature; Control humidity
+61.9,medium,Control humidity
+45.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+63.4,medium,Control humidity
+52.9,medium,Reduce storage temperature; Control humidity
+48.3,medium,Control humidity; Consider airtight container
+116.9,low,Standard storage adequate
+72.5,low,Standard storage adequate
+58.5,medium,Reduce storage temperature; Control humidity
+50.9,medium,Reduce storage temperature; Control humidity
+49.5,medium,Reduce storage temperature; Consider airtight container
+101.0,low,Standard storage adequate
+82.7,low,Standard storage adequate
+64.5,medium,Consider airtight container
+64.3,medium,Control humidity
+62.9,medium,Control humidity
+67.1,medium,Consider airtight container
+68.0,medium,Control humidity
+35.5,high,Reduce storage temperature; Control humidity
+71.6,medium,Reduce storage temperature
+71.2,medium,Reduce storage temperature; Control humidity
+55.5,medium,Control humidity
+31.1,high,Reduce storage temperature; Control humidity
+42.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+63.9,medium,Standard storage adequate
+47.9,high,Reduce storage temperature; Control humidity
+49.6,medium,Reduce storage temperature
+46.4,high,Reduce storage temperature; Control humidity
+81.8,low,Control humidity
+28.0,high,Reduce storage temperature; Control humidity
+66.0,medium,Control humidity
+44.9,high,Reduce storage temperature; Consider airtight container
+59.9,medium,Reduce storage temperature
+60.3,medium,Reduce storage temperature; Control humidity
+45.3,high,Reduce storage temperature
+43.9,high,Reduce storage temperature
+69.2,medium,Reduce storage temperature
+34.4,high,Reduce storage temperature; Control humidity
+66.2,medium,Reduce storage temperature
+72.9,low,Reduce storage temperature
+46.0,high,Reduce storage temperature
+28.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+40.4,high,Reduce storage temperature
+48.8,medium,Reduce storage temperature
+34.7,high,Reduce storage temperature; Control humidity
+81.9,low,Standard storage adequate
+65.2,medium,Reduce storage temperature
+75.4,low,Control humidity
+89.9,low,Standard storage adequate
+75.3,low,Standard storage adequate
+37.9,high,Reduce storage temperature; Control humidity
+54.6,medium,Reduce storage temperature
+30.0,high,Reduce storage temperature; Control humidity
+27.3,high,Reduce storage temperature; Control humidity
+60.2,medium,Reduce storage temperature; Consider airtight container
+52.2,medium,Reduce storage temperature
+107.9,low,Standard storage adequate
+62.4,medium,Reduce storage temperature
+60.4,medium,Consider airtight container
+99.6,low,Standard storage adequate
+67.2,medium,Control humidity
+43.5,high,Control humidity
+60.5,medium,Reduce storage temperature; Control humidity
+57.8,medium,Control humidity
+54.9,medium,Control humidity
+50.8,medium,Control humidity; Consider airtight container
+31.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+69.8,medium,Reduce storage temperature
+85.2,low,Reduce storage temperature
+34.0,high,Reduce storage temperature; Control humidity
+48.1,medium,Control humidity
+80.1,low,Standard storage adequate
+35.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+54.8,medium,Control humidity
+56.3,medium,Reduce storage temperature; Control humidity
+51.0,medium,Reduce storage temperature
+79.4,low,Standard storage adequate
+28.5,high,Reduce storage temperature; Control humidity
+63.7,medium,Reduce storage temperature
+77.2,low,Standard storage adequate
+52.3,medium,Standard storage adequate
+60.0,medium,Reduce storage temperature; Control humidity
+63.2,medium,Standard storage adequate
+40.3,high,Reduce storage temperature
+78.9,low,Reduce storage temperature
+42.5,high,Reduce storage temperature; Control humidity
+50.0,medium,Reduce storage temperature
+46.9,high,Reduce storage temperature
+68.9,medium,Control humidity
+41.1,high,Reduce storage temperature
+69.8,medium,Reduce storage temperature; Control humidity
+46.4,high,Reduce storage temperature
+56.7,medium,Control humidity; Consider airtight container
+29.7,high,Reduce storage temperature; Control humidity
+76.6,low,Consider airtight container
+34.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+64.1,medium,Reduce storage temperature
+58.1,medium,Reduce storage temperature
+46.2,high,Reduce storage temperature
+51.6,medium,Control humidity
+58.1,medium,Reduce storage temperature
+46.0,high,Control humidity; Consider airtight container
+35.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+39.8,high,Reduce storage temperature
+41.9,high,Reduce storage temperature; Control humidity
+60.3,medium,Control humidity
+37.1,high,Reduce storage temperature; Control humidity
+56.9,medium,Reduce storage temperature
+46.3,high,Reduce storage temperature
+57.6,medium,Reduce storage temperature; Control humidity
+39.7,high,Reduce storage temperature; Control humidity
+44.5,high,Reduce storage temperature; Consider airtight container
+57.7,medium,Control humidity
+69.0,medium,Control humidity
+95.6,low,Standard storage adequate
+58.5,medium,Reduce storage temperature
+91.8,low,Standard storage adequate
+49.0,medium,Reduce storage temperature
+63.6,medium,Standard storage adequate
+68.9,medium,Reduce storage temperature
+85.7,low,Reduce storage temperature
+74.7,low,Consider airtight container
+42.5,high,Reduce storage temperature; Control humidity
+41.4,high,Reduce storage temperature
+34.1,high,Reduce storage temperature; Control humidity
+68.3,medium,Control humidity
+66.7,medium,Control humidity; Consider airtight container
+63.7,medium,Control humidity
+45.1,high,Reduce storage temperature; Control humidity
+44.1,high,Reduce storage temperature
+76.4,low,Consider airtight container
+38.3,high,Reduce storage temperature; Control humidity
+83.1,low,Standard storage adequate
+46.8,high,Reduce storage temperature
+61.9,medium,Control humidity; Consider airtight container
+42.4,high,Reduce storage temperature; Control humidity
+102.5,low,Consider airtight container
+77.1,low,Reduce storage temperature
+54.9,medium,Reduce storage temperature; Consider airtight container
+59.8,medium,Control humidity
+42.1,high,Control humidity; Consider airtight container
+70.4,medium,Reduce storage temperature; Consider airtight container
+63.6,medium,Reduce storage temperature; Control humidity
+74.0,low,Reduce storage temperature
+55.7,medium,Reduce storage temperature
+43.1,high,Reduce storage temperature; Consider airtight container
+63.8,medium,Reduce storage temperature
+104.9,low,Standard storage adequate
+75.0,low,Reduce storage temperature
+99.9,low,Standard storage adequate
+60.2,medium,Standard storage adequate
+60.0,medium,Standard storage adequate
+76.2,low,Reduce storage temperature
+58.6,medium,Control humidity; Consider airtight container
+66.1,medium,Reduce storage temperature
+69.9,medium,Reduce storage temperature; Control humidity
+88.2,low,Standard storage adequate
+55.5,medium,Reduce storage temperature; Control humidity
+39.2,high,Reduce storage temperature
+56.0,medium,Reduce storage temperature; Consider airtight container
+77.5,low,Consider airtight container
+48.5,medium,Reduce storage temperature; Control humidity
+42.3,high,Reduce storage temperature
+42.1,high,Control humidity
+48.2,medium,Reduce storage temperature
+86.7,low,Reduce storage temperature
+39.9,high,Reduce storage temperature
+53.4,medium,Control humidity
+73.8,low,Standard storage adequate
+58.0,medium,Control humidity
+37.1,high,Reduce storage temperature; Control humidity
+48.2,medium,Reduce storage temperature; Control humidity
+50.1,medium,Reduce storage temperature; Control humidity
+61.0,medium,Reduce storage temperature
+79.5,low,Standard storage adequate
+53.1,medium,Reduce storage temperature; Consider airtight container
+38.7,high,Reduce storage temperature; Control humidity
+52.2,medium,Reduce storage temperature
+84.9,low,Standard storage adequate
+71.5,medium,Reduce storage temperature; Control humidity
+70.0,medium,Reduce storage temperature; Consider airtight container
+48.1,medium,Reduce storage temperature; Control humidity
+93.2,low,Reduce storage temperature
+55.3,medium,Reduce storage temperature
+55.6,medium,Reduce storage temperature
+56.4,medium,Control humidity; Consider airtight container
+80.2,low,Standard storage adequate
+72.3,low,Reduce storage temperature
+78.5,low,Reduce storage temperature
+39.9,high,Reduce storage temperature; Control humidity
+74.7,low,Consider airtight container
+47.6,high,Reduce storage temperature; Control humidity
+54.5,medium,Control humidity
+63.4,medium,Reduce storage temperature; Control humidity
+53.6,medium,Control humidity; Consider airtight container
+52.0,medium,Control humidity
+65.9,medium,Reduce storage temperature
+63.1,medium,Reduce storage temperature
+47.0,high,Control humidity
+44.1,high,Reduce storage temperature
+60.7,medium,Control humidity
+80.7,low,Standard storage adequate
+93.3,low,Control humidity
+50.5,medium,Reduce storage temperature
+39.8,high,Reduce storage temperature; Control humidity
+43.5,high,Reduce storage temperature
+28.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+49.8,medium,Reduce storage temperature; Control humidity
+31.1,high,Reduce storage temperature; Control humidity
+44.5,high,Reduce storage temperature; Consider airtight container
+34.6,high,Reduce storage temperature; Control humidity
+28.6,high,Reduce storage temperature; Control humidity
+44.8,high,Reduce storage temperature; Control humidity
+39.9,high,Reduce storage temperature
+61.8,medium,Reduce storage temperature; Consider airtight container
+41.7,high,Reduce storage temperature; Control humidity
+60.7,medium,Control humidity
+38.6,high,Reduce storage temperature
+36.8,high,Reduce storage temperature; Consider airtight container
+105.1,low,Standard storage adequate
+52.5,medium,Reduce storage temperature; Control humidity
+45.9,high,Reduce storage temperature; Control humidity
+84.1,low,Consider airtight container
+58.0,medium,Reduce storage temperature; Control humidity
+50.6,medium,Reduce storage temperature
+68.4,medium,Control humidity
+35.4,high,Reduce storage temperature; Control humidity
+43.9,high,Reduce storage temperature
+58.5,medium,Standard storage adequate
+70.7,medium,Control humidity
+62.3,medium,Reduce storage temperature
+55.0,medium,Consider airtight container
+62.4,medium,Reduce storage temperature
+99.2,low,Reduce storage temperature
+45.8,high,Reduce storage temperature
+67.1,medium,Standard storage adequate
+48.7,medium,Control humidity; Consider airtight container
+42.0,high,Reduce storage temperature
+35.9,high,Reduce storage temperature
+42.7,high,Reduce storage temperature; Control humidity
+76.3,low,Standard storage adequate
+31.9,high,Reduce storage temperature; Control humidity
+49.3,medium,Reduce storage temperature
+49.0,medium,Reduce storage temperature; Control humidity; Consider airtight container
+47.0,high,Reduce storage temperature
+53.2,medium,Control humidity
+55.7,medium,Reduce storage temperature
+55.3,medium,Reduce storage temperature
+98.2,low,Standard storage adequate
+54.7,medium,Reduce storage temperature
+79.3,low,Standard storage adequate
+55.1,medium,Control humidity
+39.8,high,Reduce storage temperature; Control humidity
+35.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+39.1,high,Reduce storage temperature
+76.0,low,Reduce storage temperature
+63.8,medium,Control humidity
+60.9,medium,Control humidity
+46.3,high,Reduce storage temperature
+51.6,medium,Reduce storage temperature
+105.0,low,Standard storage adequate
+49.9,medium,Control humidity
+46.0,high,Reduce storage temperature
+52.8,medium,Control humidity
+93.6,low,Standard storage adequate
+88.1,low,Consider airtight container
+65.2,medium,Control humidity
+59.7,medium,Standard storage adequate
+42.1,high,Reduce storage temperature
+47.9,high,Reduce storage temperature; Control humidity
+56.8,medium,Control humidity
+61.3,medium,Control humidity
+46.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+33.0,high,Reduce storage temperature
+34.4,high,Reduce storage temperature; Control humidity
+69.2,medium,Control humidity
+44.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+32.4,high,Reduce storage temperature; Control humidity; Consider airtight container
+68.3,medium,Control humidity; Consider airtight container
+32.8,high,Reduce storage temperature; Control humidity
+36.2,high,Reduce storage temperature; Control humidity
+78.9,low,Standard storage adequate
+74.1,low,Control humidity
+81.5,low,Standard storage adequate
+33.6,high,Reduce storage temperature
+68.4,medium,Reduce storage temperature; Consider airtight container
+60.7,medium,Standard storage adequate
+71.1,medium,Standard storage adequate
+39.7,high,Reduce storage temperature; Control humidity
+49.6,medium,Reduce storage temperature
+46.6,high,Reduce storage temperature
+56.5,medium,Reduce storage temperature; Control humidity
+41.6,high,Reduce storage temperature
+73.7,low,Standard storage adequate
+34.2,high,Reduce storage temperature; Control humidity
+40.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+42.3,high,Reduce storage temperature
+45.4,high,Control humidity
+108.3,low,Standard storage adequate
+53.9,medium,Reduce storage temperature; Consider airtight container
+55.1,medium,Reduce storage temperature
+44.0,high,Reduce storage temperature
+54.7,medium,Reduce storage temperature; Control humidity
+87.3,low,Standard storage adequate
+70.6,medium,Standard storage adequate
+47.7,high,Reduce storage temperature
+30.2,high,Reduce storage temperature; Control humidity
+44.1,high,Reduce storage temperature
+56.3,medium,Reduce storage temperature
+54.0,medium,Reduce storage temperature
+79.7,low,Reduce storage temperature
+67.4,medium,Reduce storage temperature
+43.7,high,Reduce storage temperature; Consider airtight container
+48.8,medium,Reduce storage temperature; Control humidity; Consider airtight container
+70.3,medium,Control humidity
+59.6,medium,Control humidity
+55.4,medium,Consider airtight container
+43.1,high,Reduce storage temperature
+51.2,medium,Reduce storage temperature
+52.9,medium,Reduce storage temperature; Control humidity
+37.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+93.5,low,Control humidity
+60.2,medium,Reduce storage temperature
+67.5,medium,Reduce storage temperature
+64.5,medium,Standard storage adequate
+43.6,high,Reduce storage temperature
+70.7,medium,Reduce storage temperature
+52.7,medium,Reduce storage temperature
+85.1,low,Consider airtight container
+34.2,high,Reduce storage temperature; Control humidity
+88.0,low,Consider airtight container
+59.0,medium,Reduce storage temperature
+70.8,medium,Reduce storage temperature
+39.9,high,Reduce storage temperature
+70.5,medium,Control humidity
+69.6,medium,Reduce storage temperature; Consider airtight container
+59.7,medium,Reduce storage temperature
+60.0,medium,Standard storage adequate
+52.3,medium,Control humidity
+34.1,high,Reduce storage temperature; Control humidity
+45.7,high,Reduce storage temperature
+78.4,low,Consider airtight container
+49.0,medium,Reduce storage temperature
+55.9,medium,Control humidity; Consider airtight container
+40.3,high,Reduce storage temperature
+45.8,high,Control humidity
+54.1,medium,Control humidity
+75.9,low,Consider airtight container
+63.6,medium,Standard storage adequate
+39.3,high,Reduce storage temperature; Consider airtight container
+41.7,high,Reduce storage temperature; Control humidity
+32.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+51.3,medium,Reduce storage temperature; Control humidity
+76.7,low,Standard storage adequate
+62.6,medium,Reduce storage temperature
+62.1,medium,Control humidity
+71.5,medium,Control humidity
+48.2,medium,Reduce storage temperature; Control humidity
+43.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+54.4,medium,Reduce storage temperature
+37.3,high,Reduce storage temperature; Consider airtight container
+54.0,medium,Reduce storage temperature
+51.2,medium,Reduce storage temperature; Control humidity
+61.2,medium,Control humidity
+86.6,low,Standard storage adequate
+47.0,high,Reduce storage temperature
+47.7,high,Control humidity
+104.5,low,Standard storage adequate
+45.7,high,Reduce storage temperature; Control humidity
+41.5,high,Reduce storage temperature; Control humidity
+63.7,medium,Reduce storage temperature; Consider airtight container
+78.2,low,Control humidity
+59.6,medium,Reduce storage temperature
+54.4,medium,Consider airtight container
+66.9,medium,Standard storage adequate
+79.2,low,Reduce storage temperature
+75.6,low,Standard storage adequate
+49.2,medium,Reduce storage temperature
+53.1,medium,Reduce storage temperature
+48.3,medium,Reduce storage temperature; Control humidity
+58.4,medium,Reduce storage temperature; Consider airtight container
+81.4,low,Consider airtight container
+93.9,low,Control humidity
+56.1,medium,Reduce storage temperature
+39.5,high,Reduce storage temperature
+46.8,high,Reduce storage temperature
+47.5,high,Control humidity
+102.2,low,Consider airtight container
+60.5,medium,Reduce storage temperature; Control humidity
+80.8,low,Standard storage adequate
+47.3,high,Reduce storage temperature; Consider airtight container
+41.3,high,Reduce storage temperature
+51.4,medium,Control humidity
+73.6,low,Reduce storage temperature
+41.7,high,Reduce storage temperature; Control humidity
+63.4,medium,Control humidity; Consider airtight container
+40.5,high,Reduce storage temperature
+52.7,medium,Control humidity
+37.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+48.3,medium,Reduce storage temperature
+55.2,medium,Control humidity; Consider airtight container
+54.4,medium,Control humidity
+55.7,medium,Reduce storage temperature
+78.7,low,Reduce storage temperature
+45.2,high,Reduce storage temperature; Control humidity
+60.3,medium,Reduce storage temperature
+61.8,medium,Control humidity
+69.6,medium,Standard storage adequate
+73.2,low,Standard storage adequate
+44.3,high,Reduce storage temperature; Consider airtight container
+75.9,low,Reduce storage temperature; Control humidity
+72.6,low,Reduce storage temperature
+42.6,high,Control humidity
+54.5,medium,Reduce storage temperature
+85.3,low,Reduce storage temperature
+81.0,low,Standard storage adequate
+67.9,medium,Control humidity; Consider airtight container
+63.2,medium,Reduce storage temperature; Control humidity
+57.8,medium,Reduce storage temperature; Consider airtight container
+74.2,low,Standard storage adequate
+41.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+76.5,low,Standard storage adequate
+68.5,medium,Reduce storage temperature
+59.5,medium,Reduce storage temperature
+48.2,medium,Reduce storage temperature; Control humidity
+69.1,medium,Standard storage adequate
+69.0,medium,Standard storage adequate
+52.2,medium,Reduce storage temperature; Control humidity; Consider airtight container
+67.9,medium,Reduce storage temperature; Control humidity
+68.1,medium,Reduce storage temperature; Control humidity
+33.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+51.2,medium,Standard storage adequate
+83.7,low,Standard storage adequate
+41.9,high,Reduce storage temperature; Control humidity
+40.9,high,Reduce storage temperature; Consider airtight container
+57.5,medium,Control humidity
+78.3,low,Standard storage adequate
+55.0,medium,Reduce storage temperature
+49.5,medium,Reduce storage temperature; Control humidity; Consider airtight container
+55.4,medium,Reduce storage temperature
+49.0,medium,Reduce storage temperature
+63.4,medium,Control humidity
+45.5,high,Reduce storage temperature
+53.0,medium,Reduce storage temperature; Consider airtight container
+72.5,low,Control humidity
+46.1,high,Control humidity
+52.7,medium,Control humidity
+43.3,high,Reduce storage temperature
+53.0,medium,Reduce storage temperature
+42.0,high,Reduce storage temperature; Control humidity
+95.0,low,Standard storage adequate
+37.7,high,Reduce storage temperature; Consider airtight container
+68.8,medium,Reduce storage temperature
+53.3,medium,Control humidity; Consider airtight container
+117.0,low,Standard storage adequate
+67.8,medium,Control humidity
+45.9,high,Reduce storage temperature; Control humidity
+43.9,high,Reduce storage temperature
+88.8,low,Standard storage adequate
+51.1,medium,Control humidity
+35.8,high,Reduce storage temperature; Consider airtight container
+40.1,high,Reduce storage temperature; Control humidity
+30.3,high,Reduce storage temperature; Control humidity
+60.5,medium,Control humidity; Consider airtight container
+36.2,high,Reduce storage temperature
+109.2,low,Standard storage adequate
+80.9,low,Standard storage adequate
+60.9,medium,Reduce storage temperature; Control humidity
+59.9,medium,Reduce storage temperature
+44.0,high,Control humidity
+79.2,low,Standard storage adequate
+70.2,medium,Standard storage adequate
+36.4,high,Reduce storage temperature
+48.9,medium,Reduce storage temperature
+41.6,high,Reduce storage temperature; Control humidity
+52.9,medium,Reduce storage temperature; Consider airtight container
+37.7,high,Reduce storage temperature; Control humidity
+33.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+71.1,medium,Standard storage adequate
+69.5,medium,Consider airtight container
+70.6,medium,Control humidity
+116.5,low,Standard storage adequate
+65.9,medium,Reduce storage temperature
+90.8,low,Standard storage adequate
+39.9,high,Reduce storage temperature; Consider airtight container
+36.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+48.8,medium,Reduce storage temperature
+65.2,medium,Reduce storage temperature; Control humidity
+54.7,medium,Reduce storage temperature; Control humidity
+70.3,medium,Standard storage adequate
+53.9,medium,Reduce storage temperature; Consider airtight container
+35.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+53.5,medium,Reduce storage temperature
+36.9,high,Reduce storage temperature; Consider airtight container
+40.6,high,Reduce storage temperature; Control humidity
+33.9,high,Reduce storage temperature; Control humidity
+68.1,medium,Control humidity; Consider airtight container
+55.9,medium,Standard storage adequate
+46.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+88.2,low,Standard storage adequate
+38.8,high,Reduce storage temperature
+31.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+46.6,high,Control humidity; Consider airtight container
+56.0,medium,Reduce storage temperature
+62.6,medium,Control humidity
+47.7,high,Reduce storage temperature
+70.6,medium,Control humidity
+38.9,high,Reduce storage temperature; Control humidity
+62.1,medium,Reduce storage temperature; Control humidity
+100.0,low,Reduce storage temperature
+100.2,low,Standard storage adequate
+50.0,medium,Reduce storage temperature
+46.1,high,Control humidity
+33.5,high,Reduce storage temperature; Control humidity; Consider airtight container
+71.8,medium,Reduce storage temperature
+71.9,medium,Reduce storage temperature
+45.6,high,Control humidity
+46.3,high,Reduce storage temperature; Control humidity
+56.3,medium,Reduce storage temperature
+73.8,low,Reduce storage temperature; Consider airtight container
+33.6,high,Reduce storage temperature
+64.9,medium,Reduce storage temperature
+98.0,low,Standard storage adequate
+103.4,low,Standard storage adequate
+39.9,high,Control humidity
+62.0,medium,Reduce storage temperature
+49.5,medium,Reduce storage temperature
+41.3,high,Reduce storage temperature; Control humidity
+50.2,medium,Reduce storage temperature
+74.3,low,Reduce storage temperature
+60.2,medium,Reduce storage temperature
+87.3,low,Reduce storage temperature
+76.1,low,Control humidity
+50.9,medium,Reduce storage temperature
+37.9,high,Reduce storage temperature; Control humidity
+46.9,high,Reduce storage temperature; Control humidity
+67.8,medium,Control humidity
+71.3,medium,Standard storage adequate
+32.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+50.7,medium,Control humidity
+55.3,medium,Reduce storage temperature
+55.4,medium,Reduce storage temperature; Control humidity
+49.7,medium,Control humidity
+62.2,medium,Control humidity
+70.4,medium,Control humidity
+55.7,medium,Reduce storage temperature; Control humidity
+36.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+33.8,high,Reduce storage temperature
+48.8,medium,Reduce storage temperature; Consider airtight container
+73.4,low,Standard storage adequate
+70.7,medium,Reduce storage temperature
+72.4,low,Standard storage adequate
+82.5,low,Consider airtight container
+55.7,medium,Reduce storage temperature
+75.1,low,Standard storage adequate
+56.7,medium,Reduce storage temperature; Control humidity
+59.3,medium,Reduce storage temperature; Control humidity
+66.9,medium,Reduce storage temperature
+31.0,high,Reduce storage temperature; Control humidity
+45.2,high,Control humidity
+46.1,high,Reduce storage temperature
+54.5,medium,Reduce storage temperature
+36.6,high,Reduce storage temperature; Control humidity
+34.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+122.1,low,Standard storage adequate
+80.5,low,Standard storage adequate
+39.7,high,Control humidity; Consider airtight container
+73.6,low,Standard storage adequate
+68.4,medium,Standard storage adequate
+77.3,low,Standard storage adequate
+42.3,high,Reduce storage temperature
+40.5,high,Reduce storage temperature
+37.7,high,Reduce storage temperature; Control humidity
+56.9,medium,Standard storage adequate
+82.8,low,Standard storage adequate
+52.0,medium,Reduce storage temperature
+46.4,high,Reduce storage temperature
+44.4,high,Reduce storage temperature
+63.2,medium,Reduce storage temperature
+71.6,medium,Consider airtight container
+47.3,high,Control humidity
+41.0,high,Control humidity
+116.6,low,Standard storage adequate
+79.1,low,Standard storage adequate
+87.9,low,Control humidity
+42.8,high,Reduce storage temperature; Consider airtight container
+60.4,medium,Reduce storage temperature
+38.2,high,Reduce storage temperature; Control humidity
+52.6,medium,Reduce storage temperature; Control humidity; Consider airtight container
+87.9,low,Standard storage adequate
+39.4,high,Reduce storage temperature; Consider airtight container
+42.0,high,Reduce storage temperature; Control humidity
+72.9,low,Control humidity
+54.7,medium,Reduce storage temperature; Control humidity; Consider airtight container
+44.0,high,Reduce storage temperature; Control humidity
+40.0,high,Reduce storage temperature; Control humidity
+79.8,low,Standard storage adequate
+57.1,medium,Control humidity; Consider airtight container
+104.1,low,Reduce storage temperature
+53.7,medium,Control humidity
+42.4,high,Reduce storage temperature; Control humidity
+54.3,medium,Reduce storage temperature; Consider airtight container
+77.7,low,Reduce storage temperature
+83.4,low,Control humidity
+54.3,medium,Reduce storage temperature; Control humidity
+72.0,low,Standard storage adequate
+67.9,medium,Standard storage adequate
+64.4,medium,Reduce storage temperature; Consider airtight container
+42.5,high,Reduce storage temperature
+49.0,medium,Reduce storage temperature; Control humidity
+77.6,low,Standard storage adequate
+71.2,medium,Reduce storage temperature
+62.3,medium,Control humidity
+68.7,medium,Consider airtight container
+56.5,medium,Control humidity
+74.9,low,Standard storage adequate
+78.2,low,Reduce storage temperature
+73.3,low,Reduce storage temperature
+63.3,medium,Reduce storage temperature; Control humidity
+58.3,medium,Consider airtight container
+106.2,low,Standard storage adequate
+53.5,medium,Reduce storage temperature; Control humidity
+92.8,low,Standard storage adequate
+39.1,high,Reduce storage temperature; Consider airtight container
+72.0,low,Control humidity
+36.2,high,Reduce storage temperature; Control humidity
+49.7,medium,Reduce storage temperature
+59.6,medium,Control humidity
+74.2,low,Reduce storage temperature
+70.0,medium,Consider airtight container
+46.9,high,Reduce storage temperature; Control humidity; Consider airtight container
+45.0,high,Reduce storage temperature
+46.1,high,Reduce storage temperature; Control humidity
+69.8,medium,Standard storage adequate
+39.4,high,Reduce storage temperature; Control humidity
+38.8,high,Reduce storage temperature; Control humidity
+53.8,medium,Control humidity
+56.0,medium,Reduce storage temperature
+72.3,low,Consider airtight container
+36.3,high,Reduce storage temperature; Control humidity
+68.1,medium,Control humidity
+74.7,low,Reduce storage temperature
+57.2,medium,Control humidity
+56.9,medium,Reduce storage temperature
+43.6,high,Reduce storage temperature; Control humidity
+64.1,medium,Reduce storage temperature
+64.6,medium,Control humidity
+42.5,high,Reduce storage temperature; Control humidity
+69.4,medium,Control humidity
+71.1,medium,Consider airtight container
+70.9,medium,Standard storage adequate
+48.9,medium,Reduce storage temperature; Control humidity; Consider airtight container
+80.5,low,Reduce storage temperature
+44.7,high,Reduce storage temperature; Consider airtight container
+60.9,medium,Reduce storage temperature
+60.1,medium,Reduce storage temperature
+53.3,medium,Control humidity; Consider airtight container
+30.6,high,Reduce storage temperature; Control humidity; Consider airtight container
+58.8,medium,Reduce storage temperature
+73.3,low,Standard storage adequate
+51.5,medium,Reduce storage temperature; Control humidity
+48.6,medium,Control humidity
+60.7,medium,Standard storage adequate
+70.8,medium,Standard storage adequate
+32.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+55.8,medium,Reduce storage temperature
+81.8,low,Reduce storage temperature
+70.6,medium,Reduce storage temperature; Control humidity
+30.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+54.5,medium,Reduce storage temperature; Control humidity
+67.0,medium,Standard storage adequate
+65.2,medium,Reduce storage temperature
+53.8,medium,Reduce storage temperature; Consider airtight container
+68.9,medium,Control humidity
+39.3,high,Reduce storage temperature
+48.7,medium,Reduce storage temperature
+63.5,medium,Control humidity
+47.9,high,Reduce storage temperature; Consider airtight container
+71.2,medium,Consider airtight container
+68.3,medium,Reduce storage temperature
+48.4,medium,Control humidity
+63.8,medium,Reduce storage temperature; Consider airtight container
+43.9,high,Control humidity
+43.5,high,Reduce storage temperature; Control humidity
+31.5,high,Reduce storage temperature; Control humidity
+78.3,low,Consider airtight container
+76.8,low,Reduce storage temperature
+33.7,high,Reduce storage temperature
+89.3,low,Standard storage adequate
+41.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+33.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+65.3,medium,Reduce storage temperature
+28.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+72.4,low,Reduce storage temperature
+36.8,high,Reduce storage temperature; Consider airtight container
+45.1,high,Reduce storage temperature; Control humidity; Consider airtight container
+28.8,high,Reduce storage temperature; Control humidity
+44.4,high,Reduce storage temperature; Control humidity
+70.4,medium,Standard storage adequate
+43.2,high,Reduce storage temperature; Control humidity
+60.9,medium,Reduce storage temperature
+51.3,medium,Reduce storage temperature
+49.9,medium,Control humidity; Consider airtight container
+76.8,low,Control humidity
+78.9,low,Reduce storage temperature
+69.0,medium,Standard storage adequate
+65.1,medium,Reduce storage temperature
+55.1,medium,Standard storage adequate
+51.3,medium,Control humidity
+85.3,low,Reduce storage temperature
+116.7,low,Standard storage adequate
+78.1,low,Consider airtight container
+60.2,medium,Reduce storage temperature
+61.0,medium,Standard storage adequate
+86.5,low,Consider airtight container
+63.7,medium,Control humidity
+48.8,medium,Control humidity
+66.3,medium,Control humidity
+67.0,medium,Reduce storage temperature
+59.5,medium,Reduce storage temperature
+36.1,high,Reduce storage temperature; Control humidity
+61.3,medium,Reduce storage temperature
+69.7,medium,Consider airtight container
+96.7,low,Standard storage adequate
+58.9,medium,Reduce storage temperature
+35.7,high,Reduce storage temperature; Control humidity
+40.4,high,Reduce storage temperature
+54.4,medium,Reduce storage temperature; Control humidity
+62.5,medium,Reduce storage temperature
+39.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+59.7,medium,Control humidity
+35.0,high,Reduce storage temperature; Control humidity
+53.6,medium,Reduce storage temperature; Consider airtight container
+55.5,medium,Reduce storage temperature
+112.6,low,Standard storage adequate
+64.5,medium,Control humidity
+51.2,medium,Reduce storage temperature
+48.2,medium,Control humidity
+83.7,low,Reduce storage temperature
+59.1,medium,Standard storage adequate
+42.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+53.7,medium,Reduce storage temperature
+63.5,medium,Reduce storage temperature
+28.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+56.4,medium,Control humidity; Consider airtight container
+78.3,low,Standard storage adequate
+50.2,medium,Reduce storage temperature
+40.0,high,Reduce storage temperature
+71.8,medium,Standard storage adequate
+70.5,medium,Consider airtight container
+55.8,medium,Control humidity
+66.0,medium,Standard storage adequate
+48.1,medium,Reduce storage temperature; Consider airtight container
+52.3,medium,Control humidity
+45.8,high,Reduce storage temperature; Consider airtight container
+43.5,high,Reduce storage temperature
+40.2,high,Reduce storage temperature
+36.0,high,Reduce storage temperature; Control humidity; Consider airtight container
+55.0,medium,Reduce storage temperature; Consider airtight container
+66.1,medium,Standard storage adequate
+54.9,medium,Control humidity
+63.9,medium,Standard storage adequate
+51.5,medium,Reduce storage temperature; Consider airtight container
+96.7,low,Standard storage adequate
+57.6,medium,Consider airtight container
+32.8,high,Reduce storage temperature; Control humidity
+36.3,high,Reduce storage temperature; Control humidity; Consider airtight container
+73.2,low,Standard storage adequate
+73.7,low,Reduce storage temperature
+57.4,medium,Control humidity; Consider airtight container
+51.0,medium,Reduce storage temperature; Control humidity; Consider airtight container
+37.2,high,Reduce storage temperature; Consider airtight container
+57.5,medium,Control humidity
+71.3,medium,Control humidity
+61.8,medium,Standard storage adequate
+42.3,high,Reduce storage temperature; Control humidity
+55.2,medium,Reduce storage temperature
+54.2,medium,Reduce storage temperature; Control humidity
+33.1,high,Reduce storage temperature; Control humidity
+65.7,medium,Standard storage adequate
+49.2,medium,Standard storage adequate
+48.8,medium,Reduce storage temperature
+53.4,medium,Reduce storage temperature; Control humidity
+77.1,low,Reduce storage temperature; Consider airtight container
+83.7,low,Standard storage adequate
+41.7,high,Reduce storage temperature
+31.7,high,Reduce storage temperature; Control humidity; Consider airtight container
+70.9,medium,Control humidity
+62.1,medium,Control humidity
+34.8,high,Reduce storage temperature; Control humidity; Consider airtight container
+82.0,low,Standard storage adequate
+37.2,high,Reduce storage temperature; Control humidity; Consider airtight container
+55.9,medium,Control humidity
+51.6,medium,Reduce storage temperature; Control humidity
+66.9,medium,Control humidity

@@ -1,0 +1,8 @@
+,safe_hours,safe_hours,storage_temperature,humidity
+,mean,std,mean,mean
+container_type,,,,
+ceramic,50.29,13.39,5.92,56.08
+glass,58.46,16.43,6.1,55.28
+metal,56.99,13.9,5.72,55.66
+plastic,51.72,14.74,6.1,56.9
+vacuum_sealed,71.95,19.35,5.78,56.37

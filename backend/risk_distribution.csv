@@ -1,0 +1,4 @@
+risk_level,ceramic,glass,metal,plastic,vacuum_sealed
+high,182,124,124,181,40
+low,23,85,64,37,188
+medium,179,201,217,179,176
