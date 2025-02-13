@@ -7,7 +7,9 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app)
 
-model_artifacts = joblib.load('food_safety_model.joblib')
+import os
+model_path = os.path.join(os.path.dirname(__file__), 'food_safety_model.joblib')
+model_artifacts = joblib.load(model_path)
 model = model_artifacts['model']
 scaler = model_artifacts['scaler']
 encoders = model_artifacts['encoders']
@@ -100,4 +102,4 @@ def health_check():
     })
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000)
