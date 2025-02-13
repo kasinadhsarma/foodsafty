@@ -2,21 +2,17 @@
     "version": 2,
     "builds": [
         {
-            "src": "backend/app.py",
+            "src": "backend/api/index.py",
             "use": "@vercel/python",
             "config": {
-                "runtime": "python3.10",
-                "maxLambdaSize": "15mb"
+                "runtime": "python3.10"
             }
         }
     ],
     "routes": [
         {
             "src": "/api/(.*)",
-            "dest": "backend/app.py"
+            "dest": "backend/api/index.py"
         }
-    ],
-    "env": {
-        "PYTHONPATH": "backend"
-    }
+    ]
 }
