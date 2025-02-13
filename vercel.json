@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "buildCommand": "sh vercel.build.sh",
     "builds": [
         {
             "src": "package.json",
@@ -11,19 +10,24 @@
             "use": "@vercel/python",
             "config": {
                 "runtime": "python3.10",
-                "maxLambdaSize": "10mb"
+                "maxLambdaSize": "10mb",
+                "pip": {
+                    "requirements": "backend/api/requirements.txt"
+                }
             }
         }
     ],
     "routes": [
         {
             "src": "/api/(.*)",
-            "dest": "backend/api/index.py"
+            "dest": "/backend/api/index.py"
         },
         {
-            "src": "^/(.*)$",
-            "dest": "/$1",
-            "continue": true
+            "handle": "filesystem"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/$1"
         }
     ],
     "env": {
