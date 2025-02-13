@@ -4,10 +4,14 @@ import joblib
 import numpy as np
 from datetime import datetime
 
+import os
+from os.path import join, dirname
+
 app = Flask(__name__)
 CORS(app)
 
-import os
+# Add API prefix handling
+app.config['APPLICATION_ROOT'] = '/api'
 model_path = os.path.join(os.path.dirname(__file__), 'food_safety_model.joblib')
 model_artifacts = joblib.load(model_path)
 model = model_artifacts['model']
@@ -31,7 +35,7 @@ def preprocess_input(data):
             features.append(float(data[col]))
     return np.array(features).reshape(1, -1)
 
-@app.route('/predict', methods=['POST'])
+@app.route('/api/predict', methods=['POST'])
 def predict():
     try:
         data = request.json
@@ -92,7 +96,7 @@ def get_storage_tips(data):
         tips.append("Consider using an airtight container")
     return tips or ["Maintain current storage conditions"]
 
-@app.route('/health', methods=['GET'])
+@app.route('/api/health', methods=['GET'])
 def health_check():
     return jsonify({
         'status': 'healthy',
