@@ -1,11 +1,17 @@
 {
     "version": 2,
+    "buildCommand": "sh vercel.build.sh",
     "builds": [
+        {
+            "src": "package.json",
+            "use": "@vercel/next"
+        },
         {
             "src": "backend/api/index.py",
             "use": "@vercel/python",
             "config": {
-                "runtime": "python3.10"
+                "runtime": "python3.10",
+                "maxLambdaSize": "10mb"
             }
         }
     ],
@@ -13,6 +19,15 @@
         {
             "src": "/api/(.*)",
             "dest": "backend/api/index.py"
+        },
+        {
+            "src": "^/(.*)$",
+            "dest": "/$1",
+            "continue": true
         }
-    ]
+    ],
+    "env": {
+        "NEXT_PUBLIC_API_URL": "/api",
+        "NEXT_PUBLIC_ML_API_URL": "https://foodsafety-ml.onrender.com"
+    }
 }

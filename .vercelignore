@@ -1,13 +1,20 @@
-**/node_modules
+n d# Python
+*.pyc
+__pycache__
+*.csv
+backend/ml.ipynb
+backend/food_safety_model.joblib
+backend/app.py
+backend/training.py
+backend/dataset.py
+
+# Development
 .git
 .env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
-*.pyc
-__pycache__
+.env.*.local
 .vscode
-.next
-*.csv
-backend/ml.ipynb
+
+# Keep Next.js files
+!.next/
+!node_modules/
