@@ -2,13 +2,14 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import joblib
 import numpy as np
+import pandas as pd
 from datetime import datetime
 import os
 import psycopg2
 from urllib.parse import urlparse
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://foodsafety-frontend.vercel.app", "http://localhost:3000"]}})
+CORS(app, resources={r"/*": {"origins": ["https://foodsafty.vercel.app", "http://localhost:3000"]}})
 
 # Database connection
 def get_db_connection():
@@ -27,7 +28,10 @@ def get_db_connection():
         print(f"Database connection error: {e}")
         return None
 
-model_artifacts = joblib.load('food_safety_model.joblib')
+# Load model artifacts using absolute path
+import os
+model_path = os.path.join(os.path.dirname(__file__), 'food_safety_model.joblib')
+model_artifacts = joblib.load(model_path)
 model = model_artifacts['model']
 scaler = model_artifacts['scaler']
 encoders = model_artifacts['encoders']
@@ -40,14 +44,15 @@ def handle_unknown_value(value, category, encoder):
         return encoder.transform(['unknown'])[0]
 
 def preprocess_input(data):
-    features = []
+    features_dict = {}
     for col in feature_columns:
         if col in ['cooking_method', 'container_type', 'ingredients']:
-            val = handle_unknown_value(data[col], col, encoders[col])
-            features.append(val)
+            features_dict[col] = handle_unknown_value(data[col], col, encoders[col])
         else:
-            features.append(float(data[col]))
-    return np.array(features).reshape(1, -1)
+            features_dict[col] = float(data[col])
+    # Create a DataFrame with named features
+    features_df = pd.DataFrame([features_dict])
+    return features_df[feature_columns]  # Ensure columns are in the correct order
 
 def save_prediction(prediction_data, input_data):
     conn = get_db_connection()
@@ -81,8 +86,21 @@ def save_prediction(prediction_data, input_data):
         cur.close()
         conn.close()
 
+def verify_token():
+    auth_token = os.getenv('AUTH_TOKEN')
+    if not auth_token:
+        return False
+    
+    token = request.headers.get('Authorization')
+    if not token:
+        return False
+    
+    return token == f"Bearer {auth_token}"
+
 @app.route('/predict', methods=['POST'])
 def predict():
+    if not verify_token():
+        return jsonify({'error': 'Unauthorized'}), 401
     try:
         data = request.json
         

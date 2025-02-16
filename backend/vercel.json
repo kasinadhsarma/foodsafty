@@ -2,18 +2,29 @@
   "version": 2,
   "builds": [
     {
-      "src": "app.py",
-      "use": "@vercel/python"
+      "src": "wsgi.py",
+      "use": "@vercel/python",
+      "config": {
+        "runtime": "python3.9",
+        "maxLambdaSize": "15mb"
+      }
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "app.py"
+      "dest": "/wsgi.py",
+      "methods": ["GET", "POST", "OPTIONS"],
+      "headers": {
+        "Access-Control-Allow-Origin": "https://foodsafty.vercel.app",
+        "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept",
+        "Access-Control-Allow-Credentials": "true"
+      }
     }
   ],
   "env": {
     "DB_URL": "ecfg_qvyotuhetwmywd2lqhyndwmdvssv",
-    "DB_PASSWORD": "5bf6b008a9ec05f6870c476d10b53211797aa000f95aae344ae60f9b422286da"
+    "DB_PASSWORD": "5bf6b008a9ec05f6870c476d10b53211797aa000f95aae344ae60f9b422286da",
+    "AUTH_TOKEN": "b133e546-57bd-47dd-a56b-43fd6f0e881f"
   }
 }

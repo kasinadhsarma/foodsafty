@@ -59,7 +59,10 @@ export default function Predict() {
     try {
       const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/predict`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${process.env.NEXT_PUBLIC_AUTH_TOKEN}`
+        },
         body: JSON.stringify(formData),
       })
       
