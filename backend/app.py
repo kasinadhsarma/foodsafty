@@ -3,9 +3,29 @@ from flask_cors import CORS
 import joblib
 import numpy as np
 from datetime import datetime
+import os
+import psycopg2
+from urllib.parse import urlparse
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": ["https://foodsafety-frontend.vercel.app", "http://localhost:3000"]}})
+
+# Database connection
+def get_db_connection():
+    db_url = os.getenv('DB_URL')
+    db_password = os.getenv('DB_PASSWORD')
+    try:
+        conn = psycopg2.connect(
+            dbname='verceldb',
+            user='default',
+            password=db_password,
+            host='ep-quiet-wind-a1sw4akl.us-east-1.postgres.vercel-storage.com',
+            port='5432',
+        )
+        return conn
+    except Exception as e:
+        print(f"Database connection error: {e}")
+        return None
 
 model_artifacts = joblib.load('food_safety_model.joblib')
 model = model_artifacts['model']
@@ -28,6 +48,38 @@ def preprocess_input(data):
         else:
             features.append(float(data[col]))
     return np.array(features).reshape(1, -1)
+
+def save_prediction(prediction_data, input_data):
+    conn = get_db_connection()
+    if not conn:
+        return False
+    
+    try:
+        cur = conn.cursor()
+        cur.execute("""
+            INSERT INTO predictions (
+                ingredients, cooking_method, cooking_temperature, cooking_duration,
+                storage_temperature, humidity, container_type, safe_hours, risk_level
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+        """, (
+            input_data['ingredients'],
+            input_data['cooking_method'],
+            input_data['cooking_temperature'],
+            input_data['cooking_duration'],
+            input_data['storage_temperature'],
+            input_data['humidity'],
+            input_data['container_type'],
+            prediction_data['safeHours'],
+            prediction_data['riskLevel']
+        ))
+        conn.commit()
+        return True
+    except Exception as e:
+        print(f"Error saving prediction: {e}")
+        return False
+    finally:
+        cur.close()
+        conn.close()
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -74,6 +126,9 @@ def predict():
             'humidity': input_data['humidity'],
             'containerType': input_data['container_type']
         }
+        
+        # Save prediction to database
+        save_prediction(response, input_data)
         
         return jsonify(response)
     
