@@ -17,7 +17,8 @@
       "config": {
         "runtime": "python3.10",
         "maxLambdaSize": "15mb",
-        "excludeFiles": "*.{csv,ipynb}"
+        "excludeFiles": "*.{csv,ipynb}",
+        "buildCommand": "pip install -r backend/requirements.txt && apt-get update && apt-get install -y postgresql postgresql-contrib"
       }
     }
   ]
