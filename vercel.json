@@ -15,10 +15,10 @@
       "src": "backend/wsgi.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.10",
+        "runtime": "python3.12",
         "maxLambdaSize": "15mb",
         "excludeFiles": "*.{csv,ipynb}",
-        "buildCommand": "pip install -r backend/requirements.txt && apt-get update && apt-get install -y postgresql postgresql-contrib"
+        "includeFiles": ["backend/food_safety_model.joblib"]
       }
     }
   ]
