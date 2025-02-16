@@ -104,7 +104,7 @@ export default function Predict() {
                   <Label htmlFor="cookingMethod">Cooking Method</Label>
                   <Select 
                     value={formData.cookingMethod}
-                    onValueChange={(value) => handleSelectChange(value, "cookingMethod")}
+                    onValueChange={(value: string) => handleSelectChange(value, "cookingMethod")}
                   >
                     <SelectTrigger>
                       <SelectValue placeholder="Select cooking method" />
@@ -169,7 +169,7 @@ export default function Predict() {
                   <Label htmlFor="containerType">Container Type</Label>
                   <Select
                     value={formData.containerType}
-                    onValueChange={(value) => handleSelectChange(value, "containerType")}
+                    onValueChange={(value: string) => handleSelectChange(value, "containerType")}
                   >
                     <SelectTrigger>
                       <SelectValue placeholder="Select container type" />

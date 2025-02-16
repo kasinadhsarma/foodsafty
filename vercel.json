@@ -15,8 +15,9 @@
       "src": "backend/wsgi.py",
       "use": "@vercel/python",
       "config": {
-        "runtime": "python3.9",
-        "maxLambdaSize": "15mb"
+        "runtime": "python3.10",
+        "maxLambdaSize": "15mb",
+        "excludeFiles": "*.{csv,ipynb}"
       }
     }
   ]
